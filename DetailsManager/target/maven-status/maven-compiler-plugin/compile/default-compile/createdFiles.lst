@@ -1,0 +1,5 @@
+com\example\dao\UserRepository.class
+com\example\demo\DetailsManagerApplication.class
+com\example\controller\HomeController.class
+com\example\demo\entities\User.class
+com\example\demo\entities\Details.class

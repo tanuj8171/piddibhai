@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 17.0.1
+Implementation-Title: DetailsManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/DetailsManage
+ r
+Created-By: Maven Integration for Eclipse
+
